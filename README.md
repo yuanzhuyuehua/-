@@ -1,2 +1,2 @@
-# -请点击main下属master分支查看代码
-用于提取图片灰度并归一化输出
+# -Please click on the master branch under main to view the code, used to extract the image grayscale and normalized output
+Used to extract image grayscale and normalize the output
